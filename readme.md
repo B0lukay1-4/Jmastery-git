@@ -1,1 +1,6 @@
-## Hello Git just trying Merge and Branch
+
+## Hey, welcome to my Git try out
+
+- Yo, Ridex here!
+
+
